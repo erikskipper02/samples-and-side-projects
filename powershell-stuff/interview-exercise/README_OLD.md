@@ -1,4 +1,4 @@
-# technical-exercise
+# interview-exercise
 Some stuff for a thing
 
 ## Getting Started
